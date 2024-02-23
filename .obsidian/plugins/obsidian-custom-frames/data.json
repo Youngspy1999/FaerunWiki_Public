@@ -1,0 +1,82 @@
+{
+  "frames": [
+    {
+      "url": "https://forum.obsidian.md/",
+      "displayName": "Obsidian Forum",
+      "icon": "edit",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/117829773/LfBqD6",
+      "displayName": "DnDBeyond_Veil",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/100959019/cNfSIJ",
+      "displayName": "DndBeyond_Geppy",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/89326905/64W4A2",
+      "displayName": "DndBeyond_Olin",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/87011863/bEpRqN",
+      "displayName": "DndBeyond_Ssephzil",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/108457496/ILjaBH",
+      "displayName": "DndBeyond_Dharmus",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/105727552/FIq1qM",
+      "displayName": "DndBeyond_Richie",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

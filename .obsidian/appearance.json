@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "HoverProperties_-_Columns",
+    "dnd5e-compendium"
+  ],
+  "baseFontSize": 14
+}
